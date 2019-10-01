@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/ganargatul/github/hacktoberfest/tavern-mobile-user-v1/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
-                    "source": "/home/ganargatul/.gradle/caches/transforms-1/files-1.1/react-native-0.54.2.aar/fd6a670db8543842876729db537671a6/res/values/values.xml",
+                    "source": "/home/ganargatul/.gradle/caches/transforms-1/files-1.1/react-native-0.54.2.aar/0433d780292d2c2ae310018257ba022b/res/values/values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,33,36,39,42,45,49,53,56,59,62,65,66,67,74,81,84,87,90,96",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "/home/ganargatul/github/hacktoberfest/tavern-mobile-user-v1/android/app/src/main/res/values/strings.xml",
+                    "source": "/home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/android/app/src/main/res/values/strings.xml",
                     "from": {
                         "startLines": "1",
                         "startColumns": "4",
@@ -59,7 +59,7 @@
                     }
                 },
                 {
-                    "source": "/home/ganargatul/github/hacktoberfest/tavern-mobile-user-v1/android/app/src/main/res/values/styles.xml",
+                    "source": "/home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "3",
                         "startColumns": "4",
