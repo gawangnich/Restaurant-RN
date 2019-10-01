@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/ganargatul/github/hacktoberfest/tavern-mobile-user-v1/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ur/values-ur.xml",
+            "outputFile": "/home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ur/values-ur.xml",
             "map": [
                 {
                     "source": "/home/ganargatul/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/326ed01c94eee6b3f89059b5ab700ab3/res/values-ur/values-ur.xml",
