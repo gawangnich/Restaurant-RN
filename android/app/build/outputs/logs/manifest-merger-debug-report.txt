@@ -1,211 +1,211 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/android/app/src/main/AndroidManifest.xml:1:1-29:12
-INJECTED from /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/android/app/src/main/AndroidManifest.xml:1:1-29:12
-INJECTED from /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/android/app/src/main/AndroidManifest.xml:1:1-29:12
-INJECTED from /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/android/app/src/main/AndroidManifest.xml:1:1-29:12
-MERGED from [:react-native-svg] /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/node_modules/react-native-svg/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-i18n] /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/node_modules/react-native-i18n/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [:rn-fetch-blob] /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-47:12
-MERGED from [com.facebook.react:react-native:0.54.2] /home/ganargatul/.gradle/caches/transforms-1/files-1.1/react-native-0.54.2.aar/0433d780292d2c2ae310018257ba022b/AndroidManifest.xml:2:1-15:12
-MERGED from [com.android.support:appcompat-v7:27.1.1] /home/ganargatul/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/326ed01c94eee6b3f89059b5ab700ab3/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:27.1.1] /home/ganargatul/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/eba659504bcfbad089894898b349b287/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/ganargatul/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/2677fdc309d097724d2a2aa93c561626/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:27.1.1] /home/ganargatul/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/51bb2bc10a06e2d0b0e23bb5aa16bb87/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:27.1.1] /home/ganargatul/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/1ef14c79f5f1564f5e6fff8d99d2d2ea/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/ganargatul/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/a9fe33f74ac4910719e060c4fa15569c/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:27.1.1] /home/ganargatul/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/eb9a674b6ea3efbd5ed380903df2b196/AndroidManifest.xml:17:1-22:12
-MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /home/ganargatul/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/6e56278d0ce79f89bacf48986b0f9943/AndroidManifest.xml:10:1-18:12
-MERGED from [com.facebook.fresco:fresco:1.3.0] /home/ganargatul/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/ec4c7f91e699e093d5c6d477fb16e819/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /home/ganargatul/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/e3eb6f5c3f379c817ad4499cbbbb90df/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.soloader:soloader:0.1.0] /home/ganargatul/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/467f6cb5453327888fc5d2876bc659f1/AndroidManifest.xml:1:1-4:12
-MERGED from [org.webkit:android-jsc:r174650] /home/ganargatul/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/65f132ac0646094a53df793d366288ce/AndroidManifest.xml:1:1-3:12
-MERGED from [com.facebook.fresco:drawee:1.3.0] /home/ganargatul/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/5b318be07e85dd2907ece582204c2629/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /home/ganargatul/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/389fda8836f475390d0f4eea8bcd1e55/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /home/ganargatul/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/bec1b5ac11f584de99ff3b8b437a6a76/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:fbcore:1.3.0] /home/ganargatul/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/f670ebfafb3aa94aefa8ed3d719dd00a/AndroidManifest.xml:2:1-9:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/ganargatul/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/d3c8702444fab96368957f7680576dce/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/ganargatul/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/e8da8067c0ccd15c89e793f20c4d70b7/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/ganargatul/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/ccd7dbfd9cf490341c1e043fba5c1e17/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.0] /home/ganargatul/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/caba6ed0301cd246db02395c14f57c28/AndroidManifest.xml:17:1-22:12
-INJECTED from /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/android/app/src/main/AndroidManifest.xml:1:1-29:12
-INJECTED from /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/android/app/src/main/AndroidManifest.xml:1:1-29:12
-INJECTED from /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/android/app/src/main/AndroidManifest.xml:1:1-29:12
+ADDED from /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/android/app/src/main/AndroidManifest.xml:1:1-29:12
+INJECTED from /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/android/app/src/main/AndroidManifest.xml:1:1-29:12
+INJECTED from /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/android/app/src/main/AndroidManifest.xml:1:1-29:12
+INJECTED from /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/android/app/src/main/AndroidManifest.xml:1:1-29:12
+MERGED from [:react-native-svg] /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/node_modules/react-native-svg/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-i18n] /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/node_modules/react-native-i18n/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:rn-fetch-blob] /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-47:12
+MERGED from [com.facebook.react:react-native:0.54.2] /home/agfidprasetyo/.gradle/caches/transforms-1/files-1.1/react-native-0.54.2.aar/0033411cea2e07fc922f4a1e8a41b1de/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/agfidprasetyo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c3b7a57dabb0f6fa8aa42c929cbdfc37/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/agfidprasetyo/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/98300098221cfe426adfed60a8b2648d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/agfidprasetyo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/ae9127c5a8fc541275f59581188c29b4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/agfidprasetyo/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/f4b9d02de9a87009e4ea8fc56aff3c36/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/agfidprasetyo/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/0f9c4923eef0d76a41ea5dab5fd53242/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/agfidprasetyo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/8105ae73233a2a66cdde00678ac78fbf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/agfidprasetyo/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/f04e89fc3e95eebdb67038d4d64e7a81/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /home/agfidprasetyo/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/e7d22ecd18e8480df0adc7696bcdcfdb/AndroidManifest.xml:10:1-18:12
+MERGED from [com.facebook.fresco:fresco:1.3.0] /home/agfidprasetyo/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/d4bdec305f75f3e17796a64564329886/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /home/agfidprasetyo/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/8a4be3fd2b7d992da2e0254b2b4d5822/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.1.0] /home/agfidprasetyo/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/8b86b73b84aa0678f3006d7e79ab06eb/AndroidManifest.xml:1:1-4:12
+MERGED from [org.webkit:android-jsc:r174650] /home/agfidprasetyo/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/b7344aa0c053e204730ecc83146562bb/AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:drawee:1.3.0] /home/agfidprasetyo/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/7ca44a0c4704530f4ef4a5153aa8445e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /home/agfidprasetyo/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/45f8675c3557900ca46f9fa85311cd27/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /home/agfidprasetyo/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/8a0a279159710b41f6cc1d975c4c9569/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /home/agfidprasetyo/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/fbc074bd1326fd43d7763fdb44d926f6/AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/agfidprasetyo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/7ad70c207e496490b5757bf3710236fb/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/agfidprasetyo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/1c9550fef6dd2444ff0710cfcc80cc1b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/agfidprasetyo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/840060cc0c45cf9d8bf27e23ab757ee9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/agfidprasetyo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4ad2fc7c7cb20d7cef210b87567bbc71/AndroidManifest.xml:17:1-22:12
+INJECTED from /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/android/app/src/main/AndroidManifest.xml:1:1-29:12
+INJECTED from /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/android/app/src/main/AndroidManifest.xml:1:1-29:12
+INJECTED from /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/android/app/src/main/AndroidManifest.xml:1:1-29:12
 	package
-		ADDED from /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/android/app/src/main/AndroidManifest.xml:2:5-28
-		INJECTED from /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/android/app/src/main/AndroidManifest.xml
-		INJECTED from /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/android/app/src/main/AndroidManifest.xml
+		ADDED from /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/android/app/src/main/AndroidManifest.xml:2:5-28
+		INJECTED from /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/android/app/src/main/AndroidManifest.xml
+		INJECTED from /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/android/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/android/app/src/main/AndroidManifest.xml
-		ADDED from /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/android/app/src/main/AndroidManifest.xml:1:1-29:12
-		INJECTED from /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/android/app/src/main/AndroidManifest.xml
+		INJECTED from /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/android/app/src/main/AndroidManifest.xml
+		ADDED from /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/android/app/src/main/AndroidManifest.xml:1:1-29:12
+		INJECTED from /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/android/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/android/app/src/main/AndroidManifest.xml
-		ADDED from /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/android/app/src/main/AndroidManifest.xml:1:1-29:12
-		INJECTED from /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/android/app/src/main/AndroidManifest.xml
+		INJECTED from /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/android/app/src/main/AndroidManifest.xml
+		ADDED from /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/android/app/src/main/AndroidManifest.xml:1:1-29:12
+		INJECTED from /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/android/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/android/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/android/app/src/main/AndroidManifest.xml:4:5-67
-MERGED from [:rn-fetch-blob] /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:5-67
-MERGED from [:rn-fetch-blob] /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:5-67
+ADDED from /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:rn-fetch-blob] /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:5-67
+MERGED from [:rn-fetch-blob] /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:5-67
 	android:name
-		ADDED from /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/android/app/src/main/AndroidManifest.xml:4:22-64
+		ADDED from /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/android/app/src/main/AndroidManifest.xml:4:22-64
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
-ADDED from /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/android/app/src/main/AndroidManifest.xml:5:5-77
-MERGED from [com.facebook.react:react-native:0.54.2] /home/ganargatul/.gradle/caches/transforms-1/files-1.1/react-native-0.54.2.aar/0433d780292d2c2ae310018257ba022b/AndroidManifest.xml:11:5-78
-MERGED from [com.facebook.react:react-native:0.54.2] /home/ganargatul/.gradle/caches/transforms-1/files-1.1/react-native-0.54.2.aar/0433d780292d2c2ae310018257ba022b/AndroidManifest.xml:11:5-78
+ADDED from /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.54.2] /home/agfidprasetyo/.gradle/caches/transforms-1/files-1.1/react-native-0.54.2.aar/0033411cea2e07fc922f4a1e8a41b1de/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.54.2] /home/agfidprasetyo/.gradle/caches/transforms-1/files-1.1/react-native-0.54.2.aar/0033411cea2e07fc922f4a1e8a41b1de/AndroidManifest.xml:11:5-78
 	android:name
-		ADDED from /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/android/app/src/main/AndroidManifest.xml:5:22-75
+		ADDED from /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/android/app/src/main/AndroidManifest.xml:5:22-75
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/android/app/src/main/AndroidManifest.xml:6:5-80
+ADDED from /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/android/app/src/main/AndroidManifest.xml:6:5-80
 	android:name
-		ADDED from /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/android/app/src/main/AndroidManifest.xml:6:22-77
+		ADDED from /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/android/app/src/main/AndroidManifest.xml:6:22-77
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/android/app/src/main/AndroidManifest.xml:7:5-81
-MERGED from [:rn-fetch-blob] /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:33:5-81
-MERGED from [:rn-fetch-blob] /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:33:5-81
+ADDED from /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/android/app/src/main/AndroidManifest.xml:7:5-81
+MERGED from [:rn-fetch-blob] /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:33:5-81
+MERGED from [:rn-fetch-blob] /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:33:5-81
 	android:name
-		ADDED from /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/android/app/src/main/AndroidManifest.xml:7:22-78
+		ADDED from /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/android/app/src/main/AndroidManifest.xml:7:22-78
 uses-permission#android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
-ADDED from /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/android/app/src/main/AndroidManifest.xml:8:5-88
+ADDED from /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/android/app/src/main/AndroidManifest.xml:8:5-88
 	android:name
-		ADDED from /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/android/app/src/main/AndroidManifest.xml:8:22-85
+		ADDED from /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/android/app/src/main/AndroidManifest.xml:8:22-85
 application
-ADDED from /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/android/app/src/main/AndroidManifest.xml:10:5-27:19
-MERGED from [:rn-fetch-blob] /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:35:5-45:19
-MERGED from [:rn-fetch-blob] /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:35:5-45:19
-MERGED from [com.facebook.react:react-native:0.54.2] /home/ganargatul/.gradle/caches/transforms-1/files-1.1/react-native-0.54.2.aar/0433d780292d2c2ae310018257ba022b/AndroidManifest.xml:13:5-20
-MERGED from [com.facebook.react:react-native:0.54.2] /home/ganargatul/.gradle/caches/transforms-1/files-1.1/react-native-0.54.2.aar/0433d780292d2c2ae310018257ba022b/AndroidManifest.xml:13:5-20
-MERGED from [com.facebook.soloader:soloader:0.1.0] /home/ganargatul/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/467f6cb5453327888fc5d2876bc659f1/AndroidManifest.xml:3:3-17
-MERGED from [com.facebook.soloader:soloader:0.1.0] /home/ganargatul/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/467f6cb5453327888fc5d2876bc659f1/AndroidManifest.xml:3:3-17
-MERGED from [org.webkit:android-jsc:r174650] /home/ganargatul/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/65f132ac0646094a53df793d366288ce/AndroidManifest.xml:2:3-17
-MERGED from [org.webkit:android-jsc:r174650] /home/ganargatul/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/65f132ac0646094a53df793d366288ce/AndroidManifest.xml:2:3-17
+ADDED from /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/android/app/src/main/AndroidManifest.xml:10:5-27:19
+MERGED from [:rn-fetch-blob] /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:35:5-45:19
+MERGED from [:rn-fetch-blob] /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:35:5-45:19
+MERGED from [com.facebook.react:react-native:0.54.2] /home/agfidprasetyo/.gradle/caches/transforms-1/files-1.1/react-native-0.54.2.aar/0033411cea2e07fc922f4a1e8a41b1de/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.54.2] /home/agfidprasetyo/.gradle/caches/transforms-1/files-1.1/react-native-0.54.2.aar/0033411cea2e07fc922f4a1e8a41b1de/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.soloader:soloader:0.1.0] /home/agfidprasetyo/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/8b86b73b84aa0678f3006d7e79ab06eb/AndroidManifest.xml:3:3-17
+MERGED from [com.facebook.soloader:soloader:0.1.0] /home/agfidprasetyo/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/8b86b73b84aa0678f3006d7e79ab06eb/AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] /home/agfidprasetyo/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/b7344aa0c053e204730ecc83146562bb/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /home/agfidprasetyo/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/b7344aa0c053e204730ecc83146562bb/AndroidManifest.xml:2:3-17
 	android:label
-		ADDED from /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/android/app/src/main/AndroidManifest.xml:12:7-39
+		ADDED from /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/android/app/src/main/AndroidManifest.xml:12:7-39
 	android:icon
-		ADDED from /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/android/app/src/main/AndroidManifest.xml:13:7-41
+		ADDED from /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/android/app/src/main/AndroidManifest.xml:13:7-41
 	android:allowBackup
-		ADDED from /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/android/app/src/main/AndroidManifest.xml:14:7-34
+		ADDED from /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/android/app/src/main/AndroidManifest.xml:14:7-34
 	android:theme
-		ADDED from /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/android/app/src/main/AndroidManifest.xml:15:7-38
+		ADDED from /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/android/app/src/main/AndroidManifest.xml:15:7-38
 	android:name
-		ADDED from /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/android/app/src/main/AndroidManifest.xml:11:7-38
+		ADDED from /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/android/app/src/main/AndroidManifest.xml:11:7-38
 activity#com.component.MainActivity
-ADDED from /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/android/app/src/main/AndroidManifest.xml:16:7-25:18
+ADDED from /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/android/app/src/main/AndroidManifest.xml:16:7-25:18
 	android:label
-		ADDED from /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/android/app/src/main/AndroidManifest.xml:18:9-41
+		ADDED from /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/android/app/src/main/AndroidManifest.xml:18:9-41
 	android:windowSoftInputMode
-		ADDED from /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/android/app/src/main/AndroidManifest.xml:20:9-51
+		ADDED from /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/android/app/src/main/AndroidManifest.xml:20:9-51
 	android:configChanges
-		ADDED from /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/android/app/src/main/AndroidManifest.xml:19:9-79
+		ADDED from /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/android/app/src/main/AndroidManifest.xml:19:9-79
 	android:name
-		ADDED from /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/android/app/src/main/AndroidManifest.xml:17:9-37
+		ADDED from /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/android/app/src/main/AndroidManifest.xml:17:9-37
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/android/app/src/main/AndroidManifest.xml:21:9-24:25
+ADDED from /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/android/app/src/main/AndroidManifest.xml:21:9-24:25
 action#android.intent.action.MAIN
-ADDED from /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/android/app/src/main/AndroidManifest.xml:22:13-65
+ADDED from /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/android/app/src/main/AndroidManifest.xml:22:13-65
 	android:name
-		ADDED from /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/android/app/src/main/AndroidManifest.xml:22:21-62
+		ADDED from /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/android/app/src/main/AndroidManifest.xml:22:21-62
 category#android.intent.category.LAUNCHER
-ADDED from /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/android/app/src/main/AndroidManifest.xml:23:13-73
+ADDED from /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/android/app/src/main/AndroidManifest.xml:23:13-73
 	android:name
-		ADDED from /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/android/app/src/main/AndroidManifest.xml:23:23-70
+		ADDED from /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/android/app/src/main/AndroidManifest.xml:23:23-70
 activity#com.facebook.react.devsupport.DevSettingsActivity
-ADDED from /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/android/app/src/main/AndroidManifest.xml:26:7-84
+ADDED from /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/android/app/src/main/AndroidManifest.xml:26:7-84
 	android:name
-		ADDED from /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/android/app/src/main/AndroidManifest.xml:26:17-81
+		ADDED from /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/android/app/src/main/AndroidManifest.xml:26:17-81
 uses-sdk
-INJECTED from /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/android/app/src/main/AndroidManifest.xml
-INJECTED from /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/android/app/src/main/AndroidManifest.xml
-MERGED from [:react-native-svg] /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/node_modules/react-native-svg/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-svg] /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/node_modules/react-native-svg/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-i18n] /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/node_modules/react-native-i18n/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-i18n] /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/node_modules/react-native-i18n/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:rn-fetch-blob] /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:rn-fetch-blob] /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.54.2] /home/ganargatul/.gradle/caches/transforms-1/files-1.1/react-native-0.54.2.aar/0433d780292d2c2ae310018257ba022b/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.54.2] /home/ganargatul/.gradle/caches/transforms-1/files-1.1/react-native-0.54.2.aar/0433d780292d2c2ae310018257ba022b/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:appcompat-v7:27.1.1] /home/ganargatul/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/326ed01c94eee6b3f89059b5ab700ab3/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.1.1] /home/ganargatul/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/326ed01c94eee6b3f89059b5ab700ab3/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] /home/ganargatul/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/eba659504bcfbad089894898b349b287/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] /home/ganargatul/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/eba659504bcfbad089894898b349b287/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/ganargatul/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/2677fdc309d097724d2a2aa93c561626/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/ganargatul/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/2677fdc309d097724d2a2aa93c561626/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] /home/ganargatul/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/51bb2bc10a06e2d0b0e23bb5aa16bb87/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] /home/ganargatul/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/51bb2bc10a06e2d0b0e23bb5aa16bb87/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] /home/ganargatul/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/1ef14c79f5f1564f5e6fff8d99d2d2ea/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] /home/ganargatul/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/1ef14c79f5f1564f5e6fff8d99d2d2ea/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/ganargatul/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/a9fe33f74ac4910719e060c4fa15569c/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/ganargatul/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/a9fe33f74ac4910719e060c4fa15569c/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] /home/ganargatul/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/eb9a674b6ea3efbd5ed380903df2b196/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] /home/ganargatul/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/eb9a674b6ea3efbd5ed380903df2b196/AndroidManifest.xml:20:5-44
-MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /home/ganargatul/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/6e56278d0ce79f89bacf48986b0f9943/AndroidManifest.xml:14:5-16:41
-MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /home/ganargatul/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/6e56278d0ce79f89bacf48986b0f9943/AndroidManifest.xml:14:5-16:41
-MERGED from [com.facebook.fresco:fresco:1.3.0] /home/ganargatul/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/ec4c7f91e699e093d5c6d477fb16e819/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fresco:1.3.0] /home/ganargatul/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/ec4c7f91e699e093d5c6d477fb16e819/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /home/ganargatul/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/e3eb6f5c3f379c817ad4499cbbbb90df/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /home/ganargatul/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/e3eb6f5c3f379c817ad4499cbbbb90df/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.soloader:soloader:0.1.0] /home/ganargatul/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/467f6cb5453327888fc5d2876bc659f1/AndroidManifest.xml:2:3-70
-MERGED from [com.facebook.soloader:soloader:0.1.0] /home/ganargatul/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/467f6cb5453327888fc5d2876bc659f1/AndroidManifest.xml:2:3-70
-MERGED from [com.facebook.fresco:drawee:1.3.0] /home/ganargatul/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/5b318be07e85dd2907ece582204c2629/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:drawee:1.3.0] /home/ganargatul/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/5b318be07e85dd2907ece582204c2629/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /home/ganargatul/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/389fda8836f475390d0f4eea8bcd1e55/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /home/ganargatul/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/389fda8836f475390d0f4eea8bcd1e55/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /home/ganargatul/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/bec1b5ac11f584de99ff3b8b437a6a76/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /home/ganargatul/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/bec1b5ac11f584de99ff3b8b437a6a76/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fbcore:1.3.0] /home/ganargatul/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/f670ebfafb3aa94aefa8ed3d719dd00a/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fbcore:1.3.0] /home/ganargatul/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/f670ebfafb3aa94aefa8ed3d719dd00a/AndroidManifest.xml:5:5-7:41
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/ganargatul/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/d3c8702444fab96368957f7680576dce/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/ganargatul/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/d3c8702444fab96368957f7680576dce/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/ganargatul/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/e8da8067c0ccd15c89e793f20c4d70b7/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/ganargatul/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/e8da8067c0ccd15c89e793f20c4d70b7/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/ganargatul/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/ccd7dbfd9cf490341c1e043fba5c1e17/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/ganargatul/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/ccd7dbfd9cf490341c1e043fba5c1e17/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] /home/ganargatul/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/caba6ed0301cd246db02395c14f57c28/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] /home/ganargatul/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/caba6ed0301cd246db02395c14f57c28/AndroidManifest.xml:20:5-44
-INJECTED from /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/android/app/src/main/AndroidManifest.xml
-INJECTED from /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/android/app/src/main/AndroidManifest.xml
+INJECTED from /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/android/app/src/main/AndroidManifest.xml
+INJECTED from /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-svg] /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/node_modules/react-native-svg/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/node_modules/react-native-svg/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-i18n] /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/node_modules/react-native-i18n/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-i18n] /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/node_modules/react-native-i18n/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:rn-fetch-blob] /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:rn-fetch-blob] /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.54.2] /home/agfidprasetyo/.gradle/caches/transforms-1/files-1.1/react-native-0.54.2.aar/0033411cea2e07fc922f4a1e8a41b1de/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.54.2] /home/agfidprasetyo/.gradle/caches/transforms-1/files-1.1/react-native-0.54.2.aar/0033411cea2e07fc922f4a1e8a41b1de/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/agfidprasetyo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c3b7a57dabb0f6fa8aa42c929cbdfc37/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/agfidprasetyo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c3b7a57dabb0f6fa8aa42c929cbdfc37/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/agfidprasetyo/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/98300098221cfe426adfed60a8b2648d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/agfidprasetyo/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/98300098221cfe426adfed60a8b2648d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/agfidprasetyo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/ae9127c5a8fc541275f59581188c29b4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/agfidprasetyo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/ae9127c5a8fc541275f59581188c29b4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/agfidprasetyo/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/f4b9d02de9a87009e4ea8fc56aff3c36/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/agfidprasetyo/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/f4b9d02de9a87009e4ea8fc56aff3c36/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/agfidprasetyo/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/0f9c4923eef0d76a41ea5dab5fd53242/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/agfidprasetyo/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/0f9c4923eef0d76a41ea5dab5fd53242/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/agfidprasetyo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/8105ae73233a2a66cdde00678ac78fbf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/agfidprasetyo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/8105ae73233a2a66cdde00678ac78fbf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/agfidprasetyo/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/f04e89fc3e95eebdb67038d4d64e7a81/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/agfidprasetyo/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/f04e89fc3e95eebdb67038d4d64e7a81/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /home/agfidprasetyo/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/e7d22ecd18e8480df0adc7696bcdcfdb/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /home/agfidprasetyo/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/e7d22ecd18e8480df0adc7696bcdcfdb/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] /home/agfidprasetyo/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/d4bdec305f75f3e17796a64564329886/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] /home/agfidprasetyo/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/d4bdec305f75f3e17796a64564329886/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /home/agfidprasetyo/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/8a4be3fd2b7d992da2e0254b2b4d5822/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /home/agfidprasetyo/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/8a4be3fd2b7d992da2e0254b2b4d5822/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] /home/agfidprasetyo/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/8b86b73b84aa0678f3006d7e79ab06eb/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.soloader:soloader:0.1.0] /home/agfidprasetyo/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/8b86b73b84aa0678f3006d7e79ab06eb/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.fresco:drawee:1.3.0] /home/agfidprasetyo/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/7ca44a0c4704530f4ef4a5153aa8445e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.3.0] /home/agfidprasetyo/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/7ca44a0c4704530f4ef4a5153aa8445e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /home/agfidprasetyo/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/45f8675c3557900ca46f9fa85311cd27/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /home/agfidprasetyo/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/45f8675c3557900ca46f9fa85311cd27/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /home/agfidprasetyo/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/8a0a279159710b41f6cc1d975c4c9569/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /home/agfidprasetyo/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/8a0a279159710b41f6cc1d975c4c9569/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /home/agfidprasetyo/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/fbc074bd1326fd43d7763fdb44d926f6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /home/agfidprasetyo/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/fbc074bd1326fd43d7763fdb44d926f6/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/agfidprasetyo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/7ad70c207e496490b5757bf3710236fb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/agfidprasetyo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/7ad70c207e496490b5757bf3710236fb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/agfidprasetyo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/1c9550fef6dd2444ff0710cfcc80cc1b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/agfidprasetyo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/1c9550fef6dd2444ff0710cfcc80cc1b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/agfidprasetyo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/840060cc0c45cf9d8bf27e23ab757ee9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/agfidprasetyo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/840060cc0c45cf9d8bf27e23ab757ee9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/agfidprasetyo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4ad2fc7c7cb20d7cef210b87567bbc71/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/agfidprasetyo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4ad2fc7c7cb20d7cef210b87567bbc71/AndroidManifest.xml:20:5-44
+INJECTED from /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/android/app/src/main/AndroidManifest.xml
+INJECTED from /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/android/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/android/app/src/main/AndroidManifest.xml
-		ADDED from /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/android/app/src/main/AndroidManifest.xml
-		INJECTED from /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/android/app/src/main/AndroidManifest.xml
+		INJECTED from /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/android/app/src/main/AndroidManifest.xml
+		ADDED from /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/android/app/src/main/AndroidManifest.xml
+		INJECTED from /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/android/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/android/app/src/main/AndroidManifest.xml
-		ADDED from /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/android/app/src/main/AndroidManifest.xml
-		INJECTED from /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/android/app/src/main/AndroidManifest.xml
+		INJECTED from /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/android/app/src/main/AndroidManifest.xml
+		ADDED from /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/android/app/src/main/AndroidManifest.xml
+		INJECTED from /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/android/app/src/main/AndroidManifest.xml
 uses-permission#com.android.vending.CHECK_LICENSE
-ADDED from [:rn-fetch-blob] /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-73
+ADDED from [:rn-fetch-blob] /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-73
 	android:name
-		ADDED from [:rn-fetch-blob] /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:22-70
+		ADDED from [:rn-fetch-blob] /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:22-70
 uses-permission#android.permission.WAKE_LOCK
-ADDED from [:rn-fetch-blob] /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:21:5-68
+ADDED from [:rn-fetch-blob] /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:21:5-68
 	android:name
-		ADDED from [:rn-fetch-blob] /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:21:22-65
+		ADDED from [:rn-fetch-blob] /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:21:22-65
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [:rn-fetch-blob] /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:27:5-79
+ADDED from [:rn-fetch-blob] /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:27:5-79
 	android:name
-		ADDED from [:rn-fetch-blob] /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:27:22-76
+		ADDED from [:rn-fetch-blob] /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:27:22-76
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from [:rn-fetch-blob] /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:30:5-76
+ADDED from [:rn-fetch-blob] /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:30:5-76
 	android:name
-		ADDED from [:rn-fetch-blob] /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:30:22-73
+		ADDED from [:rn-fetch-blob] /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:30:22-73
 provider#android.support.v4.content.FileProvider
-ADDED from [:rn-fetch-blob] /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:36:9-44:20
+ADDED from [:rn-fetch-blob] /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:36:9-44:20
 	android:grantUriPermissions
-		ADDED from [:rn-fetch-blob] /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:40:13-47
+		ADDED from [:rn-fetch-blob] /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:40:13-47
 	android:authorities
-		ADDED from [:rn-fetch-blob] /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:38:13-60
+		ADDED from [:rn-fetch-blob] /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:38:13-60
 	android:exported
-		ADDED from [:rn-fetch-blob] /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:39:13-37
+		ADDED from [:rn-fetch-blob] /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:39:13-37
 	android:name
-		ADDED from [:rn-fetch-blob] /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:37:13-67
+		ADDED from [:rn-fetch-blob] /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:37:13-67
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from [:rn-fetch-blob] /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:41:13-43:58
+ADDED from [:rn-fetch-blob] /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:41:13-43:58
 	android:resource
-		ADDED from [:rn-fetch-blob] /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:43:17-55
+		ADDED from [:rn-fetch-blob] /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:43:17-55
 	android:name
-		ADDED from [:rn-fetch-blob] /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:42:17-67
+		ADDED from [:rn-fetch-blob] /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:42:17-67
 uses-permission#android.permission.READ_PHONE_STATE
-IMPLIED from /home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/android/app/src/main/AndroidManifest.xml:1:1-29:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+IMPLIED from /media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/android/app/src/main/AndroidManifest.xml:1:1-29:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
