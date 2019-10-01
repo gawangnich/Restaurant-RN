@@ -1,10 +1,10 @@
-import React from "react";
-import Svg, { G, Path } from "react-native-svg";
+import React from 'react';
+import Svg, { G, Path } from 'react-native-svg';
 import { COLOR_BASE_PRIMARY_LIGHT, COLOR_WHITE } from '../../app/styles';
 /* SVGR has dropped some elements not supported by react-native-svg: style */
 
 const SvgLove = props => {
-  const color = props.active ? COLOR_BASE_PRIMARY_LIGHT : "none";
+  const color = props.active ? COLOR_BASE_PRIMARY_LIGHT : 'none';
   const colorSeccond = props.active ? COLOR_WHITE : COLOR_BASE_PRIMARY_LIGHT;
   return (
     <Svg height={48} width={48} viewBox="0 0 48 48" {...props}>
@@ -30,6 +30,6 @@ const SvgLove = props => {
       </G>
     </Svg>
   );
-}
+};
 
 export default SvgLove;

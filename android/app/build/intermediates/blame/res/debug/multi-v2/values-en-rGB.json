@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rGB/values-en-rGB.xml",
+            "outputFile": "/media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rGB/values-en-rGB.xml",
             "map": [
                 {
-                    "source": "/home/ganargatul/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/326ed01c94eee6b3f89059b5ab700ab3/res/values-en-rGB/values-en-rGB.xml",
+                    "source": "/home/agfidprasetyo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c3b7a57dabb0f6fa8aa42c929cbdfc37/res/values-en-rGB/values-en-rGB.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/home/ganargatul/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/eb9a674b6ea3efbd5ed380903df2b196/res/values-en-rGB/values-en-rGB.xml",
+                    "source": "/home/agfidprasetyo/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/f04e89fc3e95eebdb67038d4d64e7a81/res/values-en-rGB/values-en-rGB.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

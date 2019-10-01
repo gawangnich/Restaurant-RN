@@ -32,6 +32,7 @@ export const COLOR_WHITE = white;
 export const COLOR_WHITE_OPACITY50 = 'rgba(255,255,255,0.5)';
 export const COLOR_GREY = gray.gray_50;
 export const COLOR_GREY_DARK = gray.gray_70;
+export const COLOR_GREY_LIGHT = gray.gray_101;
 export const COLOR_BLACK = black;
 export const COLOR_BLACK_OPACITY50 = 'rgba(0,0,0,0.5)';
 export const COLOR_TRANSPARENT = 'rgba(0,0,0,0)';
