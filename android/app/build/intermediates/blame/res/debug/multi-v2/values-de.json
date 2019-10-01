@@ -1,20 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/ganargatul/github/hacktoberfest/rsamudragawang/Restaurant-RN/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-de/values-de.xml",
+            "outputFile": "/media/agfidprasetyo/MASTER/EWS/hacktoberfest/Restaurant-RN/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-de/values-de.xml",
             "map": [
                 {
-                    "source": "/home/ganargatul/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/326ed01c94eee6b3f89059b5ab700ab3/res/values-de/values-de.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,210,308,420,506,611,726,803,879,961,1072,1175,1274,1385,1487,1594,1750,1852",
-                        "endColumns": "104,97,111,85,104,114,76,75,81,110,102,98,110,101,106,155,101,81",
-                        "endOffsets": "205,303,415,501,606,721,798,874,956,1067,1170,1269,1380,1482,1589,1745,1847,1929"
-                    }
-                },
-                {
-                    "source": "/home/ganargatul/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/eb9a674b6ea3efbd5ed380903df2b196/res/values-de/values-de.xml",
+                    "source": "/home/agfidprasetyo/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/f04e89fc3e95eebdb67038d4d64e7a81/res/values-de/values-de.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -28,6 +18,16 @@
                         "startOffsets": "1934",
                         "endColumns": "100",
                         "endOffsets": "2030"
+                    }
+                },
+                {
+                    "source": "/home/agfidprasetyo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c3b7a57dabb0f6fa8aa42c929cbdfc37/res/values-de/values-de.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,210,308,420,506,611,726,803,879,961,1072,1175,1274,1385,1487,1594,1750,1852",
+                        "endColumns": "104,97,111,85,104,114,76,75,81,110,102,98,110,101,106,155,101,81",
+                        "endOffsets": "205,303,415,501,606,721,798,874,956,1067,1170,1269,1380,1482,1589,1745,1847,1929"
                     }
                 }
             ]
