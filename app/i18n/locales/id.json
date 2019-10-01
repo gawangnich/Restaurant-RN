@@ -1,4 +1,6 @@
 {
+  "appName": "Restaurant",
+  "appVersion": "v1.0.0",
   "camera": "Kamera",
   "cancel": "Kembali",
   "checkConnection": "Tidak ada koneksi. \nCek Koneksi internet anda.",

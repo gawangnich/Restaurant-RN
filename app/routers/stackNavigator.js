@@ -6,6 +6,7 @@ import History from '../screens/History';
 import Account from '../screens/Account';
 import OnBoarding from '../screens/OnBoarding';
 import DetailMenu from '../screens/DetailMenu';
+import About from '../screens/About';
 
 export const HomeStack = StackNavigator(
   {
@@ -61,6 +62,12 @@ export const AccountStack = StackNavigator(
       screen: Account,
       navigationOptions: {
         tabBarVisible: true
+      }
+    },
+    About:{
+      screen:About,
+      navigationOptions:{
+        tabBarVisible:false
       }
     }
   },
