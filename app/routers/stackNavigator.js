@@ -7,6 +7,7 @@ import Account from '../screens/Account';
 import OnBoarding from '../screens/OnBoarding';
 import DetailMenu from '../screens/DetailMenu';
 import DetailInbox from '../screens/DetailInbox';
+import Inbox from '../screens/Inbox';
 import About from '../screens/About';
 
 export const HomeStack = StackNavigator(
@@ -99,8 +100,14 @@ export const DetailMenuStack = StackNavigator(
   { headerMode: 'none', navigationOptions: { tabBarVisible: false } }
 );
 
-export const DetailInboxStack = StackNavigator(
-  {
+export const InboxStack = StackNavigator(
+  { 
+    Inbox: {
+      screen: Inbox,
+      navigationOptions: {
+        tabBarVisible: true
+      }
+    },
     DetailInbox: {
       screen: DetailInbox,
       navigationOptions: {
