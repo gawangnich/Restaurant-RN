@@ -1,4 +1,6 @@
 {
+  "appName": "Restaurant",
+  "appVersion": "v1.0.0",
   "camera": "Camera",
   "cancel": "Cancel",
   "checkConnection": "No internet connection found. \nCheck your connection.",
