@@ -1,3 +1,5 @@
+![Restaurant](assets/images/appLogo.jpg)
+
 1. npm install react-native-cli -g
 2. npm install react-native-rename -g
 3. git clone https://github.com/faresheheaja/Restaurant-RN
