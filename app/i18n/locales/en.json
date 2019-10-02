@@ -22,5 +22,6 @@
   "tryAgain": "Try again",
   "update": "Update",
   "updateBody": "Please update the application to the new version, \n to get the new contents",
-  "updateTitle": "Update"
+  "updateTitle": "Update",
+  "inbox": "Inbox"
 }

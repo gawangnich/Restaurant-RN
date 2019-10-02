@@ -3,7 +3,7 @@ import React from 'react';
 import { ScrollView, TouchableOpacity, FlatList } from 'react-native';
 import { Container, Card, CardItem, Body, Text, View } from 'native-base';
 import PropTypes from 'prop-types';
-// import NoData from '../../components/layouts/NoData';
+import NoData from '../../components/layouts/NoData';
 import Inbox from '../../../assets/svgs/InboxIcon';
 import i18n from '../../i18n';
 // import { IMAGES } from '../../configs';
@@ -86,11 +86,11 @@ export default class Component extends React.Component {
       </Container>
     </View>
   );
-  //   _renderBlank = () => <NoData title={i18n.t('inbox')} />;
+  _renderBlank = () => <NoData title={i18n.t('inbox')} />;
 
   render() {
-    return <MainScreen>{this._renderCard()}</MainScreen>;
-    // return <MainScreen>{this.state.data ? this._renderCard() : this._renderBlank()}</MainScreen>;
+    // return <MainScreen>{this._renderCard()}</MainScreen>;
+    return <MainScreen>{this.state.data ? this._renderCard() : this._renderBlank()}</MainScreen>;
   }
 }
 Component.propTypes = {
